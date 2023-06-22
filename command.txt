@@ -1,0 +1,2 @@
+docker build -t exam:1.0 .
+docker run -p 80:3070 exam:1.0
